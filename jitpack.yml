@@ -1,3 +1,3 @@
 install:
   - FILE=l2paycorekernel-release.aar
-  - mvn install:install-file -Dfile=$FILE -DgroupId=com.masterpass.turkiye.nfc -DartifactId=sdk -Dversion=3.0 -Dpackaging=aar -DgeneratePom=true -DpomFile=pom.xml
+  - mvn install:install-file -Dfile=$FILE -DgroupId=com.masterpass.turkiye.nfc -DartifactId=sdk -Dversion=4.0 -Dpackaging=aar -DgeneratePom=true -DpomFile=pom.xml
