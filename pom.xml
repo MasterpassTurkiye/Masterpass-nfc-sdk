@@ -4,6 +4,5 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.masterpass.turkiye.nfc</groupId>
     <artifactId>sdk</artifactId>
-    <version>3.0</version>
-    <packaging>aar</packaging>
+    <version>4.0</version>
 </project>
