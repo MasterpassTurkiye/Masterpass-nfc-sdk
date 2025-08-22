@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example.l2paycorekernel</groupId>
     <artifactId>l2paycorekernel</artifactId>
-    <version>14.0</version>
+    <version>15.0</version>
     <packaging>pom</packaging>
     <description>First Nfc Library</description>
 </project>
